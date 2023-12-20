@@ -1,0 +1,4 @@
+﻿  字符串逆序.c
+D:\学习\class_exercise\字符串逆序\字符串逆序\字符串逆序.c(21,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学习\class_exercise\字符串逆序\字符串逆序\字符串逆序.c(33,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  字符串逆序.vcxproj -> D:\学习\class_exercise\字符串逆序\x64\Debug\字符串逆序.exe
