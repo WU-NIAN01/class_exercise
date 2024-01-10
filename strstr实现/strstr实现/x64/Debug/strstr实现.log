@@ -1,0 +1,4 @@
+﻿  test.c
+D:\学习\class_exercise\strstr实现\strstr实现\test.c(5,8): warning C4090: “初始化”: 不同的“const”限定符
+D:\学习\class_exercise\strstr实现\strstr实现\test.c(8,9): warning C4090: “初始化”: 不同的“const”限定符
+  strstr实现.vcxproj -> D:\学习\class_exercise\strstr实现\x64\Debug\strstr实现.exe
